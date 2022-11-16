@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmj030703 (Mayank Mahavir Jain)
-- 👀 I’m interested in coding and passionate to work at Product Based Companies.
+- 👀 I’m interested in coding and passionate to work at Product Based Company.
 - 🌱 I’m currently learning DSA and Full Stack Web Development.
 - 📫 How to reach me ... LinkedIn - https://www.linkedin.com/in/mayank-mahavir-jain-9098651a9/
 
