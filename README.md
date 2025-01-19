@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmj030703 (Mayank Mahavir Jain)
-- 👨‍🎓 I am an IT Student in Mumbai University. 
-- 👀 I’m interested in Web and passionate to work as a Frontend Developer.
-- 🌱 I’m currently learning Frontend Web Development.
+- 👨‍🎓 I am a Full-Stack Web Developer graduated in 2024. 
+- 🌱 I’ve created many projects in Web Development.
+- 👀 You can check my projects ...
 - 📫 How to reach me ... 
 - LinkedIn - https://www.linkedin.com/in/mayank-mahavir-jain-9098651a9/
 - Twitter - https://twitter.com/mmj030703
